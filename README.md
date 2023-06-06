@@ -1,4 +1,4 @@
-# Data_Exploration_and_Cleaning_1
+# Exploratory Data Analysis
 I performed a basic EDA (exploratory data analysis) on the credit card default data, to ensure that it is optimal for analysis. Bad data, bad results!
 
 This data is a public data on customer credit card defaults. The goal is to predict the probability that a customer would defualt in his or her
